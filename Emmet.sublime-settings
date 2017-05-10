@@ -1,0 +1,19 @@
+{
+    // Custom snippets definitions, as per https://github.com/emmetio/emmet/blob/master/snippets.json
+    "snippets": {
+        "html": {
+            "snippets": {
+                "viewport": "<meta name=\"viewport\" content=\"initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui\">",
+                "compa": "<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=1\" />",
+                "capa": "<meta name=\"mobile-web-app-capable\" content=\"yes\">",
+                "key": "<meta name=\"keywords\" content=\"your keywords\">",
+                "des": "<meta name=\"description\" content=\"your description\">",
+            },
+            "abbreviations": {
+                "example": "<div class='example' title='Custom element example'>",
+                "mydoc": "html>(head>meta[charset='utf-8']+viewport+compa+capa+title{${1:TITLE}})+body>",
+                "!!": "!!!+mydoc[lang='en-us']"
+            }
+        }
+    }
+}
