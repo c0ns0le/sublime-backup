@@ -65,7 +65,7 @@
 	"status_bar_brighter": true,
 	"tab_size": 4,
 	"tabs_medium": true,
-	"theme": "predawn.sublime-theme",
+	"theme": "Spacegray.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"update_check": false,

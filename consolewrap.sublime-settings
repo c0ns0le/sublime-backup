@@ -2,7 +2,7 @@
 
 {
     "js": {
-        "consoleStr": "{title}, {variable}",
+        "consoleStr": "┏━━━ {title} ━━━┓\\n, {variable}",
         "semicolon" : false
     }
 }
